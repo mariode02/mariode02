@@ -6,8 +6,8 @@
 * ⚙️ Specialised in **econometrics, time-series analysis, machine learning and financial risk modelling**
 * 📈 Hands-on experience with **GARCH volatility models, Value-at-Risk estimation, LSTM/GRU forecasting** on macroeconomic panel data
 * 🧠 Proficient in **Python, R, SQL, MATLAB and C** — all projects reproducible and on GitHub
-* 🌍 Languages: Italian ɪᴛ (Native) · English ɢʙ (C1) · German ᴅᴇ (B1) · French ꜰʀ (A2)
-* 🇪🇺 Erasmus+ exchange @ **Universität des Saarlandes**, Department of Computer Science (2023–2024)
+* 🌍 Languages: Italian (Native) · English (C1) · German (B1) · French (A2)
+* Erasmus+ exchange @ **Universität des Saarlandes**, Department of Computer Science (2023–2024)
 
 📫 **Contact:** mario.deangelis@studenti.units.it  
 🔗 **LinkedIn:** [linkedin.com/in/mario-de-angelis-6304b1211](https://linkedin.com/in/mario-de-angelis-6304b1211)  
