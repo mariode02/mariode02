@@ -36,7 +36,7 @@
 |---------|-------------|-------|
 | [🔴 ARMA–GARCH & VaR](https://github.com/mariode02/oil-price-garch-analysis) | Volatility modelling on WTI crude oil returns · skew-t VaR estimation | R · rugarch |
 | [🟠 LSTM Unemployment Forecasting](https://github.com/mariode02/youth-unemployment-rnn) | Multivariate LSTM/GRU on Eurostat EU27 panel (311 months) | Python · TensorFlow |
-| [🟡 PPP Econometric Analysis](https://github.com/mariode02/ppp-new-zealand) | OLS & first-difference tests for Purchasing Power Parity · NZD/USD | R · lmtest |
+| [🟡 PPP Econometric Analysis](https://github.com/mariode02/purchasing-power-parity-nzl) | OLS & first-difference tests for Purchasing Power Parity · NZD/USD | R · lmtest |
 | [🟢 Z3 Constraint Optimiser](https://github.com/mariode02/university-scheduler-z3) | Scheduling with hard/soft constraints via Microsoft Z3 SMT solver | Python · Z3 |
 | [🔵 Numerical Analysis in MATLAB](https://github.com/mariode02/numerical-analysis-matlab) | Bisection · Newton–Raphson · Secant · LU factorisation from scratch | MATLAB |
 | [🟣 ISS-2 Database](https://github.com/mariode02/iss2-space-station-database) | 16-table MySQL DB (3NF) · 9 triggers · 5 stored procedures | SQL · MySQL |
