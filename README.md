@@ -10,7 +10,7 @@
 * Erasmus+ exchange @ **Universität des Saarlandes**, Department of Computer Science (2023–2024)
 
 📫 **Contact:** mario.deangelis@studenti.units.it  
-🔗 **LinkedIn:** [linkedin.com/in/mario-de-angelis-6304b1211](https://linkedin.com/in/mario-de-angelis-6304b1211)  
+🔗 **LinkedIn:** [linkedin.com/in/mariodeangelis02](https://linkedin.com/in/mariodeangelis02)  
 🐙 **GitHub:** [github.com/mariode02](https://github.com/mariode02)
 
 ---
